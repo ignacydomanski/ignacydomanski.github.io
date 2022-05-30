@@ -1,5 +1,31 @@
 body
 
 {
+  /* background-image: url("OIP_2.png"); */
   font-family: 'Oswald', sans-serif;
+  background-size: cover;
+  color: black;
+}
+
+p
+
+{
+  color: red;
+}
+
+.tytulik
+
+{
+  color: red;
+  font-weight: bold;
+}
+
+#tekst
+
+{
+  max-width: 600px;
+  margin-left: 100px;
+  background-color: white;
+  padding-left: 50px;
+  border: solid 1px red;
 }
